@@ -1,0 +1,19 @@
+SOURCE SCRIPT FOR SYNTHETIC MEDIA (Task 6)
+Adapted from my Task 5 coach analysis (2024 Syracuse Women's Lacrosse).
+
+NOTE: This script is intended to be read by an AI-generated voice.
+The opening line is a spoken synthetic-media disclosure, keep it in.
+
+------------------------------------------------------------
+
+This is an AI-generated voice. The following is a synthetic media sample created for a research assignment.
+
+Here is what the numbers say about Syracuse Women's Lacrosse in 2024. The team finished sixteen and six, but every single loss told the same story. In all six losses, the offense scored below its own season average. Five of those six also had a leaky defense. And all three overtime games ended in defeat. So the honest read is simple. The defense held up. The offense went quiet in the games that mattered most. If the goal is to win two more games next season, the focus should be offense. And the one player to build around is Emma Tyrrell, who led the team in goals, points, and game-winning goals. Lift the top scorer, and you flip the close losses.
+
+------------------------------------------------------------
+Word count: about 130 words (roughly one minute of audio).
+
+
+## IMPORTANT 
+
+This script was fully used for the Eleven Labs example and only a part of it was used for the Fish AI audio because of the character limit issue.
